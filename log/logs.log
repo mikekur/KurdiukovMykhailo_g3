@@ -1,0 +1,12 @@
+INFO	2021-09-26 18:59:10,347	0	org.example.AppTest	[main]	ChromeDriver init
+INFO	2021-09-26 18:59:10,491	144	org.example.AppTest	[main]	Implicit timeout - 10 seconds
+INFO	2021-09-26 18:59:10,873	526	org.example.AppTest	[main]	Browser opened
+INFO	2021-09-26 18:59:10,873	526	org.example.AppTest	[main]	First test started
+INFO	2021-09-26 18:59:11,708	1361	org.example.AppTest	[main]	First test ended
+INFO	2021-09-26 18:59:12,323	1976	org.example.AppTest	[main]	Chrome closed(quit command)
+INFO	2021-09-26 18:59:13,426	3079	org.example.AppTest	[main]	ChromeDriver init
+INFO	2021-09-26 18:59:13,554	3207	org.example.AppTest	[main]	Implicit timeout - 10 seconds
+INFO	2021-09-26 18:59:13,931	3584	org.example.AppTest	[main]	Browser opened
+INFO	2021-09-26 18:59:13,931	3584	org.example.AppTest	[main]	Second test started
+INFO	2021-09-26 18:59:20,965	10618	org.example.AppTest	[main]	Second test ended
+INFO	2021-09-26 18:59:21,612	11265	org.example.AppTest	[main]	Chrome closed(quit command)
