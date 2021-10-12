@@ -67,6 +67,9 @@ public class Registration2Page extends MainPage {
     @FindBy(xpath = "//div[@id='center_column']/h1")
     public WebElement titleRegisteredAccount;
 
+    @FindBy(xpath = "//div[@class='alert alert-danger']")
+    public WebElement alertMessages;
+
     /**
      * Method open SignIn page
      */
@@ -161,6 +164,16 @@ public class Registration2Page extends MainPage {
 
     public Registration2Page clickSubmitAccount() {
         webElements.clickOnElement(submitAccount);
+        return this;
+    }
+    //Added methods for g5_280921
+     public Registration2Page isErrorOccurred(){
+        webElements.isElementPresent(alertMessages);
+        return this;
+     }
+
+    public Registration2Page checkErrorMessageDisplayed(String errorText){
+        webElements.checkElementContainsText("//div[@class='alert alert-danger']",errorText);
         return this;
     }
 }

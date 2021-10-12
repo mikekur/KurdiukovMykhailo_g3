@@ -88,4 +88,14 @@ public class WebElements {
     public void checkAC(String message, boolean actualRes, boolean expectedRes) {
         Assert.assertThat(message, actualRes, is(expectedRes));
     }
+    //UPDATED HW5 280921
+    public void checkElementContainsText(String xpath, String text) {
+        try {
+            String textFromElement = webDriver.findElement(By.xpath(xpath)).getText();
+            Assert.assertTrue(textFromElement.contains(text));
+        } catch (Exception e) {
+            logger.error("Can't check text in element " + text);
+            Assert.fail("Can't check text in element " + text);
+        }
+    }
 }

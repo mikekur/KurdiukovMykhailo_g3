@@ -47,7 +47,7 @@ public class RegistrationTests {
         webDriver.quit();
     }
 
-    private final String EMAIL = "correct1234@gmail.com";
+    private final String EMAIL = "correct1234567@gmail.com";
     private final String FIRST_NAME = "Mykhailo";
     private final String LAST_NAME = "Kurdiukov";
     private final String PASSWORD = "qwerty123";
@@ -97,14 +97,14 @@ public class RegistrationTests {
                 .inputLastName(LAST_NAME)
                 .inputStreet(STREET)
                 .inputCity(CITY)
-                .selectState(STATE)
-                .inputPostCode(POST_CODE)
+                //.selectState(STATE)
+                //.inputPostCode(POST_CODE)
                 .inputMobilePhone(MOBILE_PHONE)
                 .inputAlias(EMAIL)
-                .clickSubmitAccount();
-        //homework 280921
-
-
-
+                .clickSubmitAccount()
+    // homework 280921
+                .isErrorOccurred()
+                .checkErrorMessageDisplayed("There are 2 errors");
+                //methods were added into Registration2Page and into WebElements
     }
 }
