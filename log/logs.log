@@ -82,3 +82,45 @@ INFO	2021-10-11 01:55:01,184	18671	ui.bankPageTests.BankPageTests	[main]	browser
 INFO	2021-10-11 01:55:05,724	23211	ui.pages.BankPage	[main]	Page was opened https://finance.i.ua/converter/
 INFO	2021-10-11 01:55:05,725	23212	ui.bankPageTests.BankPageTests	[main]	test for minus value started
 INFO	2021-10-11 01:55:05,939	23426	ui.bankPageTests.BankPageTests	[main]	26.26 value uah
+INFO	2021-10-12 18:52:48,674	0	ui.registrationTests.RegistrationTests	[main]	Get chromeDriver
+INFO	2021-10-12 18:52:48,812	138	ui.registrationTests.RegistrationTests	[main]	browser was opened
+INFO	2021-10-12 18:52:54,017	5343	ui.pages.MainPage	[main]	Page was opened http://automationpractice.com/
+INFO	2021-10-12 18:52:55,391	6717	ui.pages.Registration2Page	[main]	Page was opened http://automationpractice.com/index.php?controller=authentication&back=my-account
+INFO	2021-10-12 18:52:55,527	6853	libs.WebElements	[main]	correct@gmail.com was inputted
+INFO	2021-10-12 18:52:55,606	6932	libs.WebElements	[main]	Element was clicked [[ChromeDriver: chrome on WINDOWS (89c0c0ed9ca598e570035000529393d1)] -> id: SubmitCreate]
+INFO	2021-10-12 18:52:57,028	8354	libs.WebElements	[main]	Mykhailo was inputted
+INFO	2021-10-12 18:52:57,151	8477	libs.WebElements	[main]	Kurdiukov was inputted
+INFO	2021-10-12 18:52:57,378	8704	libs.WebElements	[main]	correct@gmail.com was inputted
+INFO	2021-10-12 18:52:57,544	8870	libs.WebElements	[main]	qwerty123 was inputted
+INFO	2021-10-12 18:52:57,720	9046	libs.WebElements	[main]	Mykhailo was inputted
+INFO	2021-10-12 18:52:57,824	9150	libs.WebElements	[main]	Kurdiukov was inputted
+INFO	2021-10-12 18:52:57,943	9269	libs.WebElements	[main]	street New York, 12 was inputted
+INFO	2021-10-12 18:52:58,050	9376	libs.WebElements	[main]	New York was inputted
+INFO	2021-10-12 18:52:58,780	10106	libs.WebElements	[main]	12345 was inputted
+INFO	2021-10-12 18:52:58,911	10237	libs.WebElements	[main]	1234567890 was inputted
+INFO	2021-10-12 18:52:59,039	10365	libs.WebElements	[main]	correct@gmail.com was inputted
+INFO	2021-10-12 18:53:24,924	36250	libs.WebElements	[main]	Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='submitAccount']'
+INFO	2021-10-12 19:02:09,968	0	ui.registrationTests.RegistrationTests	[main]	Get chromeDriver
+INFO	2021-10-12 19:02:10,108	140	ui.registrationTests.RegistrationTests	[main]	browser was opened
+INFO	2021-10-12 19:02:15,127	5159	ui.pages.MainPage	[main]	Page was opened http://automationpractice.com/
+INFO	2021-10-12 19:02:16,075	6107	ui.pages.Registration2Page	[main]	Page was opened http://automationpractice.com/index.php?controller=authentication&back=my-account
+INFO	2021-10-12 19:02:16,204	6236	libs.WebElements	[main]	correct@gmail.com was inputted
+INFO	2021-10-12 19:02:16,281	6313	libs.WebElements	[main]	Element was clicked [[ChromeDriver: chrome on WINDOWS (fe2c64a3b554439322018296534b2da8)] -> id: SubmitCreate]
+INFO	2021-10-12 19:02:49,428	0	ui.registrationTests.RegistrationTests	[main]	Get chromeDriver
+INFO	2021-10-12 19:02:49,564	136	ui.registrationTests.RegistrationTests	[main]	browser was opened
+INFO	2021-10-12 19:02:54,381	4953	ui.pages.MainPage	[main]	Page was opened http://automationpractice.com/
+INFO	2021-10-12 19:02:56,098	6670	ui.pages.Registration2Page	[main]	Page was opened http://automationpractice.com/index.php?controller=authentication&back=my-account
+INFO	2021-10-12 19:02:56,242	6814	libs.WebElements	[main]	correct1@gmail.com was inputted
+INFO	2021-10-12 19:02:56,328	6900	libs.WebElements	[main]	Element was clicked [[ChromeDriver: chrome on WINDOWS (4824acd9c0ca5da9b3216adc0133abd4)] -> id: SubmitCreate]
+INFO	2021-10-12 19:02:58,789	9361	libs.WebElements	[main]	Mykhailo was inputted
+INFO	2021-10-12 19:02:58,924	9496	libs.WebElements	[main]	Kurdiukov was inputted
+INFO	2021-10-12 19:02:59,084	9656	libs.WebElements	[main]	correct1@gmail.com was inputted
+INFO	2021-10-12 19:02:59,218	9790	libs.WebElements	[main]	qwerty123 was inputted
+INFO	2021-10-12 19:02:59,412	9984	libs.WebElements	[main]	Mykhailo was inputted
+INFO	2021-10-12 19:02:59,541	10113	libs.WebElements	[main]	Kurdiukov was inputted
+INFO	2021-10-12 19:02:59,675	10247	libs.WebElements	[main]	street New York, 12 was inputted
+INFO	2021-10-12 19:02:59,791	10363	libs.WebElements	[main]	New York was inputted
+INFO	2021-10-12 19:03:00,331	10903	libs.WebElements	[main]	12345 was inputted
+INFO	2021-10-12 19:03:00,452	11024	libs.WebElements	[main]	1234567890 was inputted
+INFO	2021-10-12 19:03:00,588	11160	libs.WebElements	[main]	correct1@gmail.com was inputted
+INFO	2021-10-12 19:03:14,462	25034	libs.WebElements	[main]	Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='submitAccount']'
