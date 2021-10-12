@@ -1,0 +1,126 @@
+INFO	2021-09-26 18:59:10,347	0	org.example.AppTest	[main]	ChromeDriver init
+INFO	2021-09-26 18:59:10,491	144	org.example.AppTest	[main]	Implicit timeout - 10 seconds
+INFO	2021-09-26 18:59:10,873	526	org.example.AppTest	[main]	Browser opened
+INFO	2021-09-26 18:59:10,873	526	org.example.AppTest	[main]	First test started
+INFO	2021-09-26 18:59:11,708	1361	org.example.AppTest	[main]	First test ended
+INFO	2021-09-26 18:59:12,323	1976	org.example.AppTest	[main]	Chrome closed(quit command)
+INFO	2021-09-26 18:59:13,426	3079	org.example.AppTest	[main]	ChromeDriver init
+INFO	2021-09-26 18:59:13,554	3207	org.example.AppTest	[main]	Implicit timeout - 10 seconds
+INFO	2021-09-26 18:59:13,931	3584	org.example.AppTest	[main]	Browser opened
+INFO	2021-09-26 18:59:13,931	3584	org.example.AppTest	[main]	Second test started
+INFO	2021-09-26 18:59:20,965	10618	org.example.AppTest	[main]	Second test ended
+INFO	2021-09-26 18:59:21,612	11265	org.example.AppTest	[main]	Chrome closed(quit command)
+INFO	2021-10-11 01:23:17,744	0	ui.bankPageTests.BankPageTests	[main]	Get chromeDriver
+INFO	2021-10-11 01:23:17,876	132	ui.bankPageTests.BankPageTests	[main]	browser was opened
+INFO	2021-10-11 01:23:24,489	6745	ui.pages.BankPage	[main]	Page was opened https://finance.i.ua/converter/
+INFO	2021-10-11 01:23:24,490	6746	ui.bankPageTests.BankPageTests	[main]	test for currency changing started
+INFO	2021-10-11 01:23:26,929	9185	ui.bankPageTests.BankPageTests	[main]	Get chromeDriver
+INFO	2021-10-11 01:23:27,058	9314	ui.bankPageTests.BankPageTests	[main]	browser was opened
+INFO	2021-10-11 01:23:30,763	13019	ui.pages.BankPage	[main]	Page was opened https://finance.i.ua/converter/
+INFO	2021-10-11 01:23:30,764	13020	ui.bankPageTests.BankPageTests	[main]	test for zero value started
+INFO	2021-10-11 01:23:32,980	15236	ui.bankPageTests.BankPageTests	[main]	Get chromeDriver
+INFO	2021-10-11 01:23:33,112	15368	ui.bankPageTests.BankPageTests	[main]	browser was opened
+INFO	2021-10-11 01:23:36,504	18760	ui.pages.BankPage	[main]	Page was opened https://finance.i.ua/converter/
+INFO	2021-10-11 01:23:36,505	18761	ui.bankPageTests.BankPageTests	[main]	test for minus value started
+INFO	2021-10-11 01:25:57,672	0	ui.bankPageTests.BankPageTests	[main]	Get chromeDriver
+INFO	2021-10-11 01:25:57,806	134	ui.bankPageTests.BankPageTests	[main]	browser was opened
+INFO	2021-10-11 01:26:02,788	5116	ui.pages.BankPage	[main]	Page was opened https://finance.i.ua/converter/
+INFO	2021-10-11 01:26:02,788	5116	ui.bankPageTests.BankPageTests	[main]	test for currency changing started
+INFO	2021-10-11 01:26:05,349	7677	ui.bankPageTests.BankPageTests	[main]	Get chromeDriver
+INFO	2021-10-11 01:26:05,479	7807	ui.bankPageTests.BankPageTests	[main]	browser was opened
+INFO	2021-10-11 01:26:09,148	11476	ui.pages.BankPage	[main]	Page was opened https://finance.i.ua/converter/
+INFO	2021-10-11 01:26:09,148	11476	ui.bankPageTests.BankPageTests	[main]	test for zero value started
+INFO	2021-10-11 01:26:09,573	11901	ui.bankPageTests.BankPageTests	[main]	value rub
+INFO	2021-10-11 01:26:11,599	13927	ui.bankPageTests.BankPageTests	[main]	Get chromeDriver
+INFO	2021-10-11 01:26:11,733	14061	ui.bankPageTests.BankPageTests	[main]	browser was opened
+INFO	2021-10-11 01:26:14,770	17098	ui.pages.BankPage	[main]	Page was opened https://finance.i.ua/converter/
+INFO	2021-10-11 01:26:14,771	17099	ui.bankPageTests.BankPageTests	[main]	test for minus value started
+INFO	2021-10-11 01:26:14,989	17317	ui.bankPageTests.BankPageTests	[main]	 value uah
+INFO	2021-10-11 01:31:09,224	0	ui.bankPageTests.BankPageTests	[main]	Get chromeDriver
+INFO	2021-10-11 01:31:09,366	142	ui.bankPageTests.BankPageTests	[main]	browser was opened
+INFO	2021-10-11 01:31:13,338	4114	ui.pages.BankPage	[main]	Page was opened https://finance.i.ua/converter/
+INFO	2021-10-11 01:31:13,338	4114	ui.bankPageTests.BankPageTests	[main]	test for currency changing started
+INFO	2021-10-11 01:31:16,000	6776	ui.bankPageTests.BankPageTests	[main]	Get chromeDriver
+INFO	2021-10-11 01:31:16,123	6899	ui.bankPageTests.BankPageTests	[main]	browser was opened
+INFO	2021-10-11 01:31:20,776	11552	ui.pages.BankPage	[main]	Page was opened https://finance.i.ua/converter/
+INFO	2021-10-11 01:31:20,777	11553	ui.bankPageTests.BankPageTests	[main]	test for zero value started
+INFO	2021-10-11 01:31:21,126	11902	ui.bankPageTests.BankPageTests	[main]	value rub
+INFO	2021-10-11 01:31:23,022	13798	ui.bankPageTests.BankPageTests	[main]	Get chromeDriver
+INFO	2021-10-11 01:31:23,152	13928	ui.bankPageTests.BankPageTests	[main]	browser was opened
+INFO	2021-10-11 01:31:26,972	17748	ui.pages.BankPage	[main]	Page was opened https://finance.i.ua/converter/
+INFO	2021-10-11 01:31:26,972	17748	ui.bankPageTests.BankPageTests	[main]	test for minus value started
+INFO	2021-10-11 01:31:27,257	18033	ui.bankPageTests.BankPageTests	[main]	 value uah
+INFO	2021-10-11 01:32:49,007	0	ui.bankPageTests.BankPageTests	[main]	Get chromeDriver
+INFO	2021-10-11 01:32:49,146	139	ui.bankPageTests.BankPageTests	[main]	browser was opened
+INFO	2021-10-11 01:33:11,275	22268	ui.pages.BankPage	[main]	Page was opened https://finance.i.ua/converter/
+INFO	2021-10-11 01:34:01,079	0	ui.bankPageTests.BankPageTests	[main]	Get chromeDriver
+INFO	2021-10-11 01:34:01,221	142	ui.bankPageTests.BankPageTests	[main]	browser was opened
+INFO	2021-10-11 01:34:05,503	4424	ui.pages.BankPage	[main]	Page was opened https://finance.i.ua/converter/
+INFO	2021-10-11 01:38:59,885	0	ui.bankPageTests.BankPageTests	[main]	Get chromeDriver
+INFO	2021-10-11 01:39:00,030	145	ui.bankPageTests.BankPageTests	[main]	browser was opened
+INFO	2021-10-11 01:39:03,885	4000	ui.pages.BankPage	[main]	Page was opened https://finance.i.ua/converter/
+INFO	2021-10-11 01:40:10,286	0	ui.bankPageTests.BankPageTests	[main]	Get chromeDriver
+INFO	2021-10-11 01:40:10,419	133	ui.bankPageTests.BankPageTests	[main]	browser was opened
+INFO	2021-10-11 01:40:14,704	4418	ui.pages.BankPage	[main]	Page was opened https://finance.i.ua/converter/
+INFO	2021-10-11 01:40:48,288	0	ui.bankPageTests.BankPageTests	[main]	Get chromeDriver
+INFO	2021-10-11 01:40:48,428	140	ui.bankPageTests.BankPageTests	[main]	browser was opened
+INFO	2021-10-11 01:40:52,565	4277	ui.pages.BankPage	[main]	Page was opened https://finance.i.ua/converter/
+INFO	2021-10-11 01:52:36,771	0	ui.bankPageTests.BankPageTests	[main]	Get chromeDriver
+INFO	2021-10-11 01:52:36,899	128	ui.bankPageTests.BankPageTests	[main]	browser was opened
+INFO	2021-10-11 01:52:41,364	4593	ui.pages.BankPage	[main]	Page was opened https://finance.i.ua/converter/
+INFO	2021-10-11 01:54:42,513	0	ui.bankPageTests.BankPageTests	[main]	Get chromeDriver
+INFO	2021-10-11 01:54:42,653	140	ui.bankPageTests.BankPageTests	[main]	browser was opened
+INFO	2021-10-11 01:54:46,511	3998	ui.pages.BankPage	[main]	Page was opened https://finance.i.ua/converter/
+INFO	2021-10-11 01:54:46,512	3999	ui.bankPageTests.BankPageTests	[main]	test for currency changing started
+INFO	2021-10-11 01:54:48,898	6385	ui.bankPageTests.BankPageTests	[main]	Get chromeDriver
+INFO	2021-10-11 01:54:49,023	6510	ui.bankPageTests.BankPageTests	[main]	browser was opened
+INFO	2021-10-11 01:54:58,749	16236	ui.pages.BankPage	[main]	Page was opened https://finance.i.ua/converter/
+INFO	2021-10-11 01:54:58,749	16236	ui.bankPageTests.BankPageTests	[main]	test for zero value started
+INFO	2021-10-11 01:54:59,166	16653	ui.bankPageTests.BankPageTests	[main]	0.0value rub
+INFO	2021-10-11 01:55:01,058	18545	ui.bankPageTests.BankPageTests	[main]	Get chromeDriver
+INFO	2021-10-11 01:55:01,184	18671	ui.bankPageTests.BankPageTests	[main]	browser was opened
+INFO	2021-10-11 01:55:05,724	23211	ui.pages.BankPage	[main]	Page was opened https://finance.i.ua/converter/
+INFO	2021-10-11 01:55:05,725	23212	ui.bankPageTests.BankPageTests	[main]	test for minus value started
+INFO	2021-10-11 01:55:05,939	23426	ui.bankPageTests.BankPageTests	[main]	26.26 value uah
+INFO	2021-10-12 18:52:48,674	0	ui.registrationTests.RegistrationTests	[main]	Get chromeDriver
+INFO	2021-10-12 18:52:48,812	138	ui.registrationTests.RegistrationTests	[main]	browser was opened
+INFO	2021-10-12 18:52:54,017	5343	ui.pages.MainPage	[main]	Page was opened http://automationpractice.com/
+INFO	2021-10-12 18:52:55,391	6717	ui.pages.Registration2Page	[main]	Page was opened http://automationpractice.com/index.php?controller=authentication&back=my-account
+INFO	2021-10-12 18:52:55,527	6853	libs.WebElements	[main]	correct@gmail.com was inputted
+INFO	2021-10-12 18:52:55,606	6932	libs.WebElements	[main]	Element was clicked [[ChromeDriver: chrome on WINDOWS (89c0c0ed9ca598e570035000529393d1)] -> id: SubmitCreate]
+INFO	2021-10-12 18:52:57,028	8354	libs.WebElements	[main]	Mykhailo was inputted
+INFO	2021-10-12 18:52:57,151	8477	libs.WebElements	[main]	Kurdiukov was inputted
+INFO	2021-10-12 18:52:57,378	8704	libs.WebElements	[main]	correct@gmail.com was inputted
+INFO	2021-10-12 18:52:57,544	8870	libs.WebElements	[main]	qwerty123 was inputted
+INFO	2021-10-12 18:52:57,720	9046	libs.WebElements	[main]	Mykhailo was inputted
+INFO	2021-10-12 18:52:57,824	9150	libs.WebElements	[main]	Kurdiukov was inputted
+INFO	2021-10-12 18:52:57,943	9269	libs.WebElements	[main]	street New York, 12 was inputted
+INFO	2021-10-12 18:52:58,050	9376	libs.WebElements	[main]	New York was inputted
+INFO	2021-10-12 18:52:58,780	10106	libs.WebElements	[main]	12345 was inputted
+INFO	2021-10-12 18:52:58,911	10237	libs.WebElements	[main]	1234567890 was inputted
+INFO	2021-10-12 18:52:59,039	10365	libs.WebElements	[main]	correct@gmail.com was inputted
+INFO	2021-10-12 18:53:24,924	36250	libs.WebElements	[main]	Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='submitAccount']'
+INFO	2021-10-12 19:02:09,968	0	ui.registrationTests.RegistrationTests	[main]	Get chromeDriver
+INFO	2021-10-12 19:02:10,108	140	ui.registrationTests.RegistrationTests	[main]	browser was opened
+INFO	2021-10-12 19:02:15,127	5159	ui.pages.MainPage	[main]	Page was opened http://automationpractice.com/
+INFO	2021-10-12 19:02:16,075	6107	ui.pages.Registration2Page	[main]	Page was opened http://automationpractice.com/index.php?controller=authentication&back=my-account
+INFO	2021-10-12 19:02:16,204	6236	libs.WebElements	[main]	correct@gmail.com was inputted
+INFO	2021-10-12 19:02:16,281	6313	libs.WebElements	[main]	Element was clicked [[ChromeDriver: chrome on WINDOWS (fe2c64a3b554439322018296534b2da8)] -> id: SubmitCreate]
+INFO	2021-10-12 19:02:49,428	0	ui.registrationTests.RegistrationTests	[main]	Get chromeDriver
+INFO	2021-10-12 19:02:49,564	136	ui.registrationTests.RegistrationTests	[main]	browser was opened
+INFO	2021-10-12 19:02:54,381	4953	ui.pages.MainPage	[main]	Page was opened http://automationpractice.com/
+INFO	2021-10-12 19:02:56,098	6670	ui.pages.Registration2Page	[main]	Page was opened http://automationpractice.com/index.php?controller=authentication&back=my-account
+INFO	2021-10-12 19:02:56,242	6814	libs.WebElements	[main]	correct1@gmail.com was inputted
+INFO	2021-10-12 19:02:56,328	6900	libs.WebElements	[main]	Element was clicked [[ChromeDriver: chrome on WINDOWS (4824acd9c0ca5da9b3216adc0133abd4)] -> id: SubmitCreate]
+INFO	2021-10-12 19:02:58,789	9361	libs.WebElements	[main]	Mykhailo was inputted
+INFO	2021-10-12 19:02:58,924	9496	libs.WebElements	[main]	Kurdiukov was inputted
+INFO	2021-10-12 19:02:59,084	9656	libs.WebElements	[main]	correct1@gmail.com was inputted
+INFO	2021-10-12 19:02:59,218	9790	libs.WebElements	[main]	qwerty123 was inputted
+INFO	2021-10-12 19:02:59,412	9984	libs.WebElements	[main]	Mykhailo was inputted
+INFO	2021-10-12 19:02:59,541	10113	libs.WebElements	[main]	Kurdiukov was inputted
+INFO	2021-10-12 19:02:59,675	10247	libs.WebElements	[main]	street New York, 12 was inputted
+INFO	2021-10-12 19:02:59,791	10363	libs.WebElements	[main]	New York was inputted
+INFO	2021-10-12 19:03:00,331	10903	libs.WebElements	[main]	12345 was inputted
+INFO	2021-10-12 19:03:00,452	11024	libs.WebElements	[main]	1234567890 was inputted
+INFO	2021-10-12 19:03:00,588	11160	libs.WebElements	[main]	correct1@gmail.com was inputted
+INFO	2021-10-12 19:03:14,462	25034	libs.WebElements	[main]	Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='submitAccount']'
